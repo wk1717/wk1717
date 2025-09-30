@@ -10,3 +10,10 @@
 ![Minkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyo&show_icons=true&theme=tokyonight)
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wk1717&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wk1717"
+  width="600"
+  height="300"
+/>
+</a>
