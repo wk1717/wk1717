@@ -13,7 +13,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wk1717&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/wk1717"
-  width="700"
+  width="600"
   height="300"
 />
 </a>
