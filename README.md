@@ -13,7 +13,7 @@
   <img src="https://render.gitanimals.org/lines/wk1717" width="1000" height="180"/>
   <img
     src="https://render.gitanimals.org/lines/wk1717?pet-id=760665346219912745"
-    width="600"
+    width="700"
     height="120"
   />
   
