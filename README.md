@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
 
-![Minkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyo&show_icons=true&theme=tokyonight)
+![Minkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk1717&show_icons=true&theme=tokyonight)
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wk1717&utm_content=farm">
