@@ -1,5 +1,7 @@
 # minkyo
-✉️ smk78449@naver.com
+[![Email](https://img.shields.io/badge/Email-smk78449@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smk78449@naver.com)  
+<br>
+[![Notion](https://img.shields.io/badge/Notion-Mango_Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Mango-0cec321e323a8241a6a4817b634d42c3)
 
 ## Stats
 <p>
